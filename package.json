@@ -1,0 +1,23 @@
+{
+  "name": "patatap-clone",
+  "version": "1.0.0",
+  "description": "patatapClone",
+  "main": "index.js",
+  "scripts": {
+    "deploy" : "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Brendon1911.github.io/patatapClone"
+  },
+  "author": "Brendon Richards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brendon1911/patatapClone/issues"
+  },
+  "homepage": "https://github.com/Brendon1911/patatapClone",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
